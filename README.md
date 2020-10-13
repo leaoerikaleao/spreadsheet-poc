@@ -35,5 +35,9 @@ Adds data to spreadsheet
 node 03-add-row.js
 ```
 
+## Arquivo Credentials - Archive Credentials
+Arquivo de Configuração do Gooogle Development Console
+Criar Projeto > Credenciais > Contas de Serviço > Criar Chave
+Adicionar APIs e Serviços -> Google Sheets API
 
 ## Licença MIT
