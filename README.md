@@ -1,8 +1,6 @@
 # Manipulando dados de uma Planilha Google
 Manipulating data from a Google Spreadsheet
 
-[![HitCount](http://hits.dwyl.com/leaoerikaleao/spreadsheet-poc.svg)](http://hits.dwyl.com/leaoerikaleao/spreadsheet-poc)
-
 ## Arquivo Connect - Archive Connect
 Conexão com Google Planilhas
 
